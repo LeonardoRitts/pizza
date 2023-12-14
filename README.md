@@ -1,2 +1,2 @@
 # pizza
-Small pizza project
+Small pizza project including HTML, CSS and Javascript
